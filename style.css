@@ -44,21 +44,21 @@ section {
   .heroText {
       font-style: normal;
       font-weight: bold;
-      font-size: 3rem;
+      font-size: 5vw;
       margin: 0;
   }
 
   .subHeroText {
     font-style: normal;
     font-weight: bold;
-    font-size: 2rem;
+    font-size: 3vw;
     margin-top: 20px;
   }
 
   .heroParagraph {
       font-style: normal;
       font-weight: 500;
-      font-size: 1.5rem;
+      font-size: 2vw;
       max-width: 512px;
       height: auto;
       margin-top: 20px;
